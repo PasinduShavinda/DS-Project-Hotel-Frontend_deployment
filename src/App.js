@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { HashRouter, Route } from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom";
 import Shv_All_Taxi_Reservations from "./components/shv_TaxiReservation/shv_All_Taxi_Reservations";
 import Shv_Create_Taxi_Reservations from "./components/shv_TaxiReservation/shv_Create_Taxi_Reservations";
 import Shv_Taxi_Reservations_Home_Page from "./components/shv_TaxiReservation/shv_Taxi_Reservations_Home_Page";
@@ -59,7 +59,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <HashRouter >
+        <BrowserRouter>
           {/* ..........udara............. */}
           {/* Payclient */}
           <Route path="/CardPay" component={CardPayment}></Route>
@@ -143,7 +143,7 @@ export default class App extends Component {
             <Route path="/EditEventBook/:id" exact component={EditEventBook}></Route>
             <Route path="/EventReservationDetails" exact component={EventReservationDetails}></Route>
 
-        </HashRouter>
+        </BrowserRouter>
         <br />
         <br />
         <Footer />
