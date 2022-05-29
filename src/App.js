@@ -59,7 +59,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <BrowserRouter>
+        <HashRouter >
           {/* ..........udara............. */}
           {/* Payclient */}
           <Route path="/CardPay" component={CardPayment}></Route>
@@ -143,7 +143,7 @@ export default class App extends Component {
             <Route path="/EditEventBook/:id" exact component={EditEventBook}></Route>
             <Route path="/EventReservationDetails" exact component={EventReservationDetails}></Route>
 
-        </BrowserRouter>
+        </HashRouter>
         <br />
         <br />
         <Footer />
