@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f142205.css",
+    "main.js": "/static/js/main.2d28cf2a.js",
+    "static/js/498.26de99d1.chunk.js": "/static/js/498.26de99d1.chunk.js",
+    "static/js/703.84d3d724.chunk.js": "/static/js/703.84d3d724.chunk.js",
+    "static/js/203.fe2d3c2f.chunk.js": "/static/js/203.fe2d3c2f.chunk.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/paychoose.gif": "/static/media/paychoose.3f394687b7bb72063da1.gif",
+    "static/media/successpayment.gif": "/static/media/successpayment.79f585fc42152799595c.gif",
+    "static/media/eventhomebackground.jpg": "/static/media/eventhomebackground.d520024b087bb3a4f4e0.jpg",
+    "static/media/outdoorfunctionbackground.jpg": "/static/media/outdoorfunctionbackground.6fd0c27d5c597b579a19.jpg",
+    "static/media/weddinghallbackground.jpg": "/static/media/weddinghallbackground.b82a1bb92e0c0952ee69.jpg",
+    "index.html": "/index.html",
+    "main.8f142205.css.map": "/static/css/main.8f142205.css.map",
+    "main.2d28cf2a.js.map": "/static/js/main.2d28cf2a.js.map",
+    "498.26de99d1.chunk.js.map": "/static/js/498.26de99d1.chunk.js.map",
+    "703.84d3d724.chunk.js.map": "/static/js/703.84d3d724.chunk.js.map",
+    "203.fe2d3c2f.chunk.js.map": "/static/js/203.fe2d3c2f.chunk.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f142205.css",
+    "static/js/main.2d28cf2a.js"
+  ]
+}
